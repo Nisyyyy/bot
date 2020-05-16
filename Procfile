@@ -1,1 +1,1 @@
-worker : node master.js
+web: node master.js
